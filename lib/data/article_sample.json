@@ -1,0 +1,54 @@
+{
+  "section": "technology",
+  "subsection": "",
+  "title": "Airbnb Was Like a Family, Until the Layoffs Started",
+  "abstract": "What happens when a kumbaya office culture meets the business realities of a pandemic?",
+  "url": "https://www.nytimes.com/2020/07/17/technology/airbnb-coronavirus-layoffs-.html",
+  "uri": "nyt://article/a680d4d7-ab09-5cb7-8f22-ed6c1e2d154f",
+  "byline": "By Erin Griffith",
+  "item_type": "Article",
+  "updated_date": "2020-07-17T12:21:24-04:00",
+  "created_date": "2020-07-17T05:00:37-04:00",
+  "published_date": "2020-07-17T05:00:37-04:00",
+  "material_type_facet": "",
+  "kicker": "",
+  "des_facet": [
+      "Layoffs and Job Reductions",
+      "Travel and Vacations",
+      "Labor and Jobs",
+      "Computers and the Internet",
+      "Coronavirus (2019-nCoV)",
+      "Initial Public Offerings"
+  ],
+  "org_facet": [
+      "Airbnb"
+  ],
+  "per_facet": [
+      "Chesky, Brian"
+  ],
+  "geo_facet": [
+  ],
+  "multimedia": [
+      {
+          "url": "https://static01.nyt.com/images/2020/07/19/business/00airbnb1/merlin_173400378_c8e2a75e-fc10-4a7b-83e3-0a448fe486e1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1367,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "&ldquo;I have a deep feeling of love for all of you,&rdquo; Brian Chesky, Airbnb&rsquo;s chief executive, told employees in May.",
+          "copyright": "Jessica Chou for The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2020/07/19/business/00airbnb1/merlin_173400378_c8e2a75e-fc10-4a7b-83e3-0a448fe486e1-superJumbo.jpg",
+        "format": "superJumbo",
+        "height": 1367,
+        "width": 2048,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "&ldquo;I have a deep feeling of love for all of you,&rdquo; Brian Chesky, Airbnb&rsquo;s chief executive, told employees in May.",
+        "copyright": "Jessica Chou for The New York Times"
+      }
+    ],
+  "short_url": "https://nyti.ms/2DM2IGR"
+}
